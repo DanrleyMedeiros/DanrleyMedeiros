@@ -1,6 +1,6 @@
 # Olá, eu sou Danrley Medeiros 👋
 
-Sou um desenvolvedor Fullstack Jr com experiência em várias tecnologias web, sempre buscando aprender e aprimorar minhas habilidades. Estou em transição de carreira, vindo da área de supervisão de produção, onde atuo à 9 anos, o que me ajudou a desenvolver habilidades em liderança, resolução de problemas e gerenciamento de tempo.
+  Sou um desenvolvedor Fullstack Jr com experiência em várias tecnologias web, sempre buscando aprender e aprimorar minhas habilidades. Estou em transição de carreira, vindo da área de supervisão de produção, onde atuo à 9 anos, o que me ajudou a desenvolver habilidades em liderança, resolução de problemas e gerenciamento de tempo.
 
 ## 🚀 Minhas Skills
 
