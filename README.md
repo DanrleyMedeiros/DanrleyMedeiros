@@ -1,4 +1,4 @@
-# Olá, eu sou Danrley Medeiros 👋
+# Olá, eu sou Danrley Medeiros Vieira👋
 
   Sou um desenvolvedor Fullstack Jr com experiência em várias tecnologias web, sempre buscando aprender e aprimorar minhas habilidades. 
   Estou em transição de carreira, vindo da área de supervisão de produção, o que me ajudou a desenvolver habilidades em liderança, foco em resultados, resolução de problemas e gerenciamento de tempo.
@@ -24,7 +24,7 @@ Aqui estão alguns dos meus projetos recentes que refletem o que venho aprendend
 
 ## 🛠️ Como me encontrar 
 
-- <a href="www.linkedin.com/in/danrley-medeiros-vieira-21b72b2a2"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- <a href="https://www.linkedin.com/in/danrley-medeiros-vieira/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - <a href="mailto:danrley.medeiros@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 - <a href="https://wa.me/5548988323308?text=Oii%20Danrley,%20encontrei%20seu%20perfil%20GitHub%20!!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
